@@ -76,7 +76,3 @@ with col2:
                 st.session_state.started = False
             else:
                 st.error("答案不正確，請再試一次。")
-
-# Footer
-st.markdown("---")
-st.markdown("歡迎使用 118csie 字母數字黑箱解碼者！")
